@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Litecoin Core integration/staging tree
 =====================================
 
@@ -77,3 +78,6 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
+=======
+# electroniccoin-core
+>>>>>>> 813b00fb04fa98a53f8dc91f8b79234e3bada5ed
